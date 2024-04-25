@@ -1,0 +1,79 @@
+body {
+    background-color: pink;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.buttonstyle1{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+
+.buttonstyle1:hover {
+    background-color: red;
+    transform: scale(1.2);
+}
+
+#buttonstyle2{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+
+#buttonstyle2:hover {
+    background-color: red;
+    transform: scale(1.2);
+}
+
+
+.subsection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subsection2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image1 {
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+}
+
+.video1 {
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+}
+
